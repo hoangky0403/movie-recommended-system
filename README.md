@@ -9,7 +9,7 @@ app.py — Streamlit app that powers the interface and recommendation logic
 
 movies.pkl — Preprocessed movie metadata (titles, IDs, etc.)
 
-similarity.pkl — Precomputed similarity matrix between movies
+similarity.pkl — Precomputed similarity matrix between movies 
 
 requirements.txt — Dependencies required to run the project
 
